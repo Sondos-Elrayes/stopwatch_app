@@ -39,7 +39,7 @@ class _StopwatchScreenState extends State<StopwatchScreen> {
                           Provider.of<MyProvider>(context).timer,
                           style: TextStyle(
                             color: Colors.white,
-                            fontSize: 45.0,
+                            fontSize: 40.0,
                             fontWeight: FontWeight.w500,
                           ),
                         ),
@@ -48,7 +48,7 @@ class _StopwatchScreenState extends State<StopwatchScreen> {
                   ),
                   Positioned(
                     bottom: 70,
-                    left: 40,
+                    left: 20,
                     right: 20,
                     child: Row(
                       children: [
