@@ -1,16 +1,20 @@
-# stopwatch_app
+# Stopwatch ⏱⌛️ 
 
-A new Flutter project.
+The Stopwatch App.
 
-## Getting Started
+### Description
 
-This project is a starting point for a Flutter application.
+With the help of Stopwatch you can measure the time of any situation, like sports 🏃‍♂, cooking 🍜, games 🧩, education 👨‍💻, etc.
 
-A few resources to get you started if this is your first Flutter project:
+Start and stop the stopwatch by pressing the button on the left, you can see the elapsed time on the center of the screen in milliseconds, seconds, minutes, and hours 
+To reset press the right button.😉
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### A few details about the project code:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- it's a flutter project with provider state management
+
+- a beautiful design made by me 🙋‍♀. 
+
+Check this out:
+
+<img src ="https://user-images.githubusercontent.com/52948095/118537705-94198f80-b74d-11eb-8190-75ff3d57dc21.gif" width="250"/>
