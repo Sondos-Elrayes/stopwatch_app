@@ -4,7 +4,7 @@ The Stopwatch App.
 
 ### Description
 
-With the help of Stopwatch you can measure the time of any situation, like sports 🏃‍♂, cooking 🍜, games 🧩, education 👨‍💻, etc.
+With the help of Stopwatch you can measure the time of any situation, like sports 🏃‍♂, cooking 🍜, games ⚽️, education 👨‍💻, etc.
 
 Start and stop the stopwatch by pressing the button on the left, you can see the elapsed time on the center of the screen in milliseconds, seconds, minutes, and hours 
 To reset press the right button.😉
